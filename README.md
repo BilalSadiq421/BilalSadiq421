@@ -4,7 +4,7 @@ A passionate software developer from Pakistan
 🎓 I studied @ AppAcademy and the University of Central Punjab
 🌱 I’m currently learning React Native
 👯 I’m looking to collaborate on any open-source project
-🤔 I’m looking to work with Solidity and Rust based projects
+🤔 I’m looking to work with Desktop/Mobile apps,  Solidity and Rust based projects
 💬 Ask me about tech or the outdoors
 📫 How to reach me: send a message on LinkedIn or via Email
 ⚡ Fun fact: my favorite food is Italian 
@@ -12,7 +12,7 @@ Connect with me:
 [Mian-Bilal-Sadiq](https://www.linkedin.com/in/mian-bilal-sadiq-904a81175/)
 
 Languages and Tools:
-javascript python nodejs reactnative redux express flask postgresql mysql sequelize sqlite mocha git aws docker heroku linux chartjs bootstrap bulma tailwind sass html5 css3 postman xcode illustrator photoshop xd mongoDB figma zapier ifttt
+javascript python nodejs reactnative redux express nest graphql next flask postgresql mysql sequelize sqlite mocha git aws docker heroku linux chartjs bootstrap bulma tailwind sass html5 css3 postman xcode illustrator photoshop xd mongoDB figma zapier ifttt
 
 
 
